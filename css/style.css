@@ -1,0 +1,262 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+ul,li{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.clr{
+	clear: both;
+}
+/*--------------------------------------End Basic CSS*/
+
+.full-wrapper{
+	background: #385898;
+	min-height: 82px;
+	/*background-image: url(../images/logo.png);
+	background-position: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 82px;
+	*/
+
+
+}
+.wapper{
+	background: ;
+	width: 980px;
+	margin: 0 auto;
+
+	
+
+}
+/*-------------------------------------- End*/
+.left-header{
+
+}
+.left-header p{
+	color: white;
+	font-size: 40px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	float: left;
+	padding-top: 24px;
+
+	
+}
+.right-header{
+	float: right;
+	padding-top: 10px;
+
+
+}
+
+label{
+	color: white;
+}
+input.email{
+	width: 150px;
+	height: 18px;
+	margin-right: 15px;
+	border: 1px soild #606770;
+}
+
+.btn{
+	background-color: #29487d;
+	color: white;
+	border-color: #365899;
+	font-family:;
+	font-size: 12px;
+	width: 50px;
+	height: 26px;
+
+}
+
+.btn:hover{
+	background-color: #365899;
+	color: white;
+	border-color: #29487d;
+	font-family:;
+	font-size: 12px;
+}
+table a{
+	color: white;
+	font-size: 14px;
+}
+/*--------------------------------------end header*/
+.pdn{
+	background: url(/rsrc.php/v3/yB/r/TwAHgQi2ZPB.png) 0 bottom repeat-x;
+    background: linear-gradient(white, #D3D8E8);
+}
+
+}
+.left-content{
+	float: left;
+	width: 580px;
+}
+.left-content h3{
+	font-size: 20px;
+	font-family: Helvetica;
+	font-weight: 600;
+	color: #333;
+	line-height: 29px;
+	padding-top: 35px;
+	width: 480px;
+}
+.right-form{
+	width: 400px;
+	float: right;
+	margin-top: -270px;
+
+	
+}
+.right-form p{
+	font-size: 19px;
+	font-weight:400;
+	font-family:Helvetica;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.right-form h1{
+	font-size: 36px;
+	font-family: Helvetica;
+	font-weight: 600;
+	color: #333;
+
+}
+
+.fname{
+	width: 172px;
+	height: 21px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	padding: 8px 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	font-size: 18px;
+
+}
+
+.lname{
+	width: 172px;
+	height: 21px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	padding: 8px 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	font-size: 18px;
+
+	
+
+}
+
+.phone-mail{
+	height: 21px;
+	width: 376px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	padding: 8px 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+
+}
+
+.pass{
+	height: 21px;
+	width: 376px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	padding: 8px 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+
+}
+
+select{
+	padding: 5px;
+}
+
+span{
+	font-size: 18px;
+	font-weight: 400;
+	font-family:Helvetica; 
+	padding-right: 10px;
+	padding-left: 5px;
+}
+
+.artl{
+	font-family: helvetica;
+	font-size: 8px;
+	font-size: ;
+}
+
+.fsize{
+	color: ;
+	font-family: sans-serif;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+.btn1{
+	background-color: #79bc64;
+	color: white;
+	border-color: ;
+	font-family:;
+	font-size: 18px;
+	width: 180px;
+	height: 40px;
+	margin: 10px 0px;
+
+
+	}
+
+.last-div p{
+	font-size: 14px;
+	font-family: sans-serif;
+	color: ;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+
+.footer {
+	padding: 30px 0;
+}
+.footer hr {
+	color: #ddd;
+}
+.footer .upper-side {
+	margin: 15px 0;
+}
+.footer .upper-side li {
+	list-style: none;
+	font-size: 12px;
+	display: inline-block;
+}
+.footer .upper-side li a {
+	margin: 0 7px;
+}
+
+.footer .lower-side {
+	margin: 15px 0;
+}
+.footer .lower-side li {
+	list-style: none;
+	font-size: 12px;
+	display: inline-block;
+}
+.footer .lower-side li a {
+	margin: 0 10px;
+}
+
+
